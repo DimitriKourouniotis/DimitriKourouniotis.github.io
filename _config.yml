@@ -112,7 +112,7 @@ author:
   bio              : "Data Viz Portfolio"
   location         : "Seattle"
   email            :
-  linkedin         : "https://www.linkedin.com/in/dimitrikourouniotis/" 
+  linkedin         : "https://www.linkedin.com/in/dimitrikourouniotis/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -163,6 +163,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
