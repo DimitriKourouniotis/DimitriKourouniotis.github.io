@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :"dimitri_dataviz"
 facebook:
   username               :
   app_id                 :
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Dimitri Kourouniotis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/tableauprep_intro_image.png"
   bio              : "Data Viz Portfolio"
   location         : "Seattle"
   email            :
